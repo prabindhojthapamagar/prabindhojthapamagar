@@ -1,4 +1,4 @@
-# Hi, I'm Prabin 👋
+# Hi, I'm Prabin
 
 **Computer Science Student | Learing Java Backend**
 
@@ -10,7 +10,7 @@ My goal is to become a Java Backend Developer with strong software engineering f
 
 ---
 
-## 🛠 Current Tech Stack
+## Current Tech Stack
 
 <table>
 <tr>
@@ -52,7 +52,7 @@ My goal is to become a Java Backend Developer with strong software engineering f
 </tr>
 </table>
 
-## 🚀 Projects
+## Projects
 
 Every repository is built to learn one or more software engineering concepts.
 
@@ -74,7 +74,7 @@ More projects are coming as I continue learning.
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always happy to connect with fellow learners and developers.
 
