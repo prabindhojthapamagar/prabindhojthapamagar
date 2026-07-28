@@ -58,14 +58,20 @@ Every repository is built to learn one or more software engineering concepts.
 
 Some examples include:
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+  
+<td width="50%">
+<h3 align="center">📚 Library Management System</h3>
 <a href="https://github.com/prabindhojthapamagar/library-management-system">
-  <img align="center" src="https://github-readme-stats-extended.vercel.app/api/pin/?username=prabindhojthapamagar&repo=library-management-system&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/prabindhojthapamagar/library-management-system/main/assets/dashboard.png" width="800">
 </a>
+</td>
 
-<a href="https://github.com/prabindhojthapamagar/RestaurantSeatingSystem">
-  <img align="center" src="https://github-readme-stats-extended.vercel.app/api/pin/?username=prabindhojthapamagar&repo=RestaurantSeatingSystem&theme=tokyonight" />
-</a>
-
+</tr>
+</table>
 More projects are coming as I continue learning.
 
 ---
