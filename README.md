@@ -1,6 +1,6 @@
 # Hi, I'm Prabin
 
-**Computer Science Student | Learing Java Backend**
+**Computer Science Student | Learning Java Backend**
 
 I'm a Computer Science student currently living in Japan with a passion for backend development.
 
