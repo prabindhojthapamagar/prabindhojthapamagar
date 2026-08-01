@@ -1,51 +1,53 @@
 # Hi, I'm Prabin
 
-**Computer Science Student | Learning Java Backend**
+**Learning Cloud-native development | DevOps pipelines | Java Backend.**
 
-I'm a Computer Science student currently living in Japan with a passion for backend development.
+I'm a Computer Science graduate from Nepal currently living in Japan.
 
-This GitHub is for keeping a record of my learning journey. Every repository represents a concept I've studied, a problem I've solved, or a technology I've explored.
+I'm learning and building my career around Linux, Cloud, Networking, Automation, and Infrastructure, while continuing to strengthen my Java backend development skills.
 
-My goal is to become a Java Backend Developer with strong software engineering fundamentals and eventually specialize in cybersecurity.
+This GitHub documents my learning journey through hands-on projects that focus on designing, deploying, automating, and operating real-world systems—not just writing application code.
+
+My long-term goal is to become a Cloud Security / DevSecOps Engineer, starting with Infrastructure, System Operations, or Cloud Engineering roles.
 
 ---
 
-## Current Tech Stack
+## Technical Skills
 
 <table>
 <tr>
 <td valign="top" width="20%">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
-
-</td>
-
-<td valign="top" width="20%">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,tailwindcss,react&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" />
 
 </td>
 
 <td valign="top" width="20%">
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=spring,mysql,dynamodb&theme=dark&perline=3" />
 
 </td>
 
 <td valign="top" width="20%">
 
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark&perline=3" />
+### DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,git&theme=dark&perline=3" />
+
+</td>
+
+<td valign="top" width="20%">
+
+### OS
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark&perline=3" />
 
 </td>
 
 <td valign="top" width="20%">
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,git,postman&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman&theme=dark&perline=3" />
 
 </td>
 
