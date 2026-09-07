@@ -4,11 +4,12 @@
 
 I'm a Computer Science graduate from Nepal currently living in Japan.
 
-I'm learning and building my career around Linux, Cloud, Networking, Automation, and Infrastructure, while continuing to strengthen my Java backend development skills.
+I'm building my career around **Java backend development, Spring Boot, databases, APIs, and software engineering**, while also developing practical skills in Linux, Cloud, Networking, Automation, and Infrastructure.
 
-This GitHub documents my learning journey through hands-on projects that focus on designing, deploying, automating, and operating real-world systems—not just writing application code.
+This GitHub documents my learning journey through hands-on projects focused on building **backend applications, REST APIs, database-driven systems, and distributed services**. I also explore how these applications are deployed, automated, and operated in real-world environments.
 
-My long-term goal is to become a Cloud Security / DevSecOps Engineer, starting with Infrastructure, System Operations, or Cloud Engineering roles.
+My current goal is to start my career as a **Junior Backend / Java Software Engineer**, with a long-term goal of combining backend engineering with **Cloud, DevOps, and Security** to become a Cloud Security / DevSecOps Engineer.
+
 
 ---
 
