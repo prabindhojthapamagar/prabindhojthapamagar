@@ -32,13 +32,6 @@ My long-term goal is to become a Cloud Security / DevSecOps Engineer, starting w
 
 <td valign="top" width="20%">
 
-### DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,git&theme=dark&perline=3" />
-
-</td>
-
-<td valign="top" width="20%">
-
 ### OS
 <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark&perline=3" />
 
